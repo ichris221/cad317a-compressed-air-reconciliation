@@ -1,3 +1,33 @@
+Dataset Coverage and Fictional Content Notice
+
+This Creative Commons Zero v1.0 Universal license applies to the following files in this repository:
+
+1. CAD317A_asset_register.xlsx
+2. CAD317A_nameplate_and_field_survey.csv
+3. CAD317A_shift_air_system_log.csv
+4. CAD317A_pressure_drop_test_results.csv
+5. CAD317A_dryer_dewpoint_trend.xlsx
+6. CAD317A_filter_element_change_records.docx
+7. CAD317A_safety_guard_and_loto_checklist.docx
+8. CAD317A_ultrasonic_leak_survey.csv
+9. CAD317A_oil_carryover_lab_results.pdf
+10. CAD317A_motor_current_and_power_trend.xlsx
+11. CAD317A_relief_valve_certificates.pdf
+12. CAD317A_spare_parts_quotes_and_crossrefs.xlsx
+13. CAD317A_control_panel_alarm_export.csv
+14. CAD317A_legacy_vendor_datasheet_scan.pdf
+15. CAD317A_facility_air_demand_snapshot.xlsx
+
+All files listed above are fictional, synthetic project materials created for a mechanical engineering 
+technician reconciliation task. Any equipment tags, serial numbers, certificate numbers, test results, 
+alarm records, measurements, dates, personnel references, facility details, vendor information, and 
+maintenance records contained in these files are invented for training and evaluation purposes.
+
+The files do not describe a real facility, real compressed-air package, real maintenance event, real 
+company, or real individual.
+
+The files are released under the Creative Commons Zero v1.0 Universal license.
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal
