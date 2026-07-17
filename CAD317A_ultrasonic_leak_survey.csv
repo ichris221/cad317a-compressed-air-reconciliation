@@ -1,0 +1,16 @@
+leak_id,survey_date,location,component_tag,access_status,measured_loss_scfm,confidence,verification_method,included_in_confirmed_total,status_label,notes
+ULS-001,2026-06-23,Compressor discharge union,CA-C-317A,ACCESSIBLE,6.8,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-002,2026-06-23,Prefilter drain,PF-317A,ACCESSIBLE,4.5,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-003,2026-06-23,Dryer tower A pilot line,CA-D-317A,ACCESSIBLE,9.2,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-004,2026-06-23,Dryer tower B pilot line,CA-D-317A,ACCESSIBLE,7.1,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-005,2026-06-23,Purge exhaust silencer flange,CA-D-317A,ACCESSIBLE,5.6,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-006,2026-06-23,Receiver inlet flange,CA-R-317A,ACCESSIBLE,11.4,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-007,2026-06-23,Afterfilter bowl seal,AF-317A,ACCESSIBLE,8.3,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-008,2026-06-23,Flowmeter impulse fitting,FT-317A,ACCESSIBLE,3.7,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-009,2026-06-23,Header branch valve,HV-317A,ACCESSIBLE,10.1,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-010,2026-06-23,Condensate manifold,CD-317A,ACCESSIBLE,6.2,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-011,2026-06-23,Instrument regulator,IR-317A,ACCESSIBLE,7.9,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-012,2026-06-23,Dryer bypass valve stem,BYP-317A,ACCESSIBLE,6.6,A,Ultrasonic + soap verification,YES,CONFIRMED,
+ULS-013,2026-06-23,High-level receiver roof nozzle,CA-R-317A,INACCESSIBLE,22.0,C,Distance estimate only,NO,ESTIMATED,No safe access during survey
+ULS-014,2026-06-23,Buried header crossing,HDR-317,INACCESSIBLE,18.5,C,Acoustic indication only,NO,UNVERIFIED,No line-of-sight confirmation
+ULS-015,2026-06-23,Purge valve actuator,PV-317A,ACCESSIBLE,0.0,A,Ultrasonic + soap verification,YES,NO_LEAK,

@@ -1,0 +1,36 @@
+survey_record_id,survey_date,component_tag,component_type,field_name,observed_value,unit,method,confidence,photo_ref,status_label,source_note
+NFS-001,2026-06-20,CA-D-317A,PACKAGE,package_tag,CA-D-317A,,stainless frame plate,A,P-001,VERIFIED,Current package identifier
+NFS-002,2026-06-20,C-AIR-317A,PACKAGE_ALIAS,legacy_package_alias,CA-D-317A,,painted legacy stencil,C,P-002,ALIAS,Suffix and service abbreviation normalized to package tag
+NFS-003,2026-06-20,CA-C-317A,COMPRESSOR,compressor_tag,CA-C-317A,,frame plate,A,P-003,VERIFIED,Current compressor tag
+NFS-004,2026-06-20,CA-C-317A,COMPRESSOR,compressor_model,VX-1600E,,nameplate,A,P-004,VERIFIED,Serial ADX317A-0624
+NFS-005,2026-06-20,CA-C-317A,COMPRESSOR,rated_flow,1600,scfm,nameplate,A,P-004,VERIFIED,At 100 psig discharge
+NFS-006,2026-06-20,CA-C-317A,COMPRESSOR,rated_discharge_pressure,101.5,psig,nameplate,A,P-004,VERIFIED,Equivalent to 7.0 barg nominal
+NFS-007,2026-06-20,MTR-CA-317A,MOTOR,motor_tag,MTR-CA-317A,,nameplate,A,P-005,VERIFIED,Motor assigned to CA-C-317A
+NFS-008,2026-06-20,MTR-CA-317A,MOTOR,rated_power,250,kW,nameplate,A,P-005,VERIFIED,"400 V, 50 Hz"
+NFS-009,2026-06-20,MTR-CA-317A,MOTOR,rated_speed,1488,rpm,nameplate,A,P-005,VERIFIED,Full-load nameplate speed
+NFS-010,2026-06-20,CA-D-317A,DRYER,dryer_model,DH-1500-HPR,,nameplate,A,P-006,VERIFIED,Heated purge twin-tower dryer
+NFS-011,2026-06-20,CA-D-317A,DRYER,desiccant_type,Activated alumina / molecular sieve 70/30,,inspection hatch label,A,P-007,VERIFIED,Layered charge installed 2024-09
+NFS-012,2026-06-20,CA-D-317A,DRYER,purge_configuration,Heated purge,,line trace and controller panel,A,P-008,VERIFIED,Electric purge heater HTR-317A present
+NFS-013,2026-06-20,CA-D-317A,DRYER,purge_controller_setting,8.0,percent,controller display,A,P-008,VERIFIED,Nominal setting during stable operation
+NFS-014,2026-06-20,CA-D-317A,DRYER,purge_orifice_id,OR-317-24,,engraved orifice plate,A,P-009,VERIFIED,Installed after 2024 retrofit
+NFS-015,2026-06-20,PF-317A,PREFILTER,installed_element_id,FPF-1600-GF,,element end cap label,A,P-010,VERIFIED,Coalescing prefilter element
+NFS-016,2026-06-20,AF-317A,AFTERFILTER,installed_element_id,AFE-1600-MC,,element end cap label,A,P-011,VERIFIED,Microcarbon afterfilter element
+NFS-017,2026-06-20,CA-D-317A,GUARD,minimum_measured_clearance,14.5,mm,feeler gauge,A,P-012,PASS,Smallest clearance at fan-guard lower quadrant
+NFS-018,2026-06-20,CA-D-317A,GUARD,local_minimum_clearance,12.0,mm,controlled checklist reference,A,P-012,LIMIT,Site checklist minimum
+NFS-019,2026-06-20,PSV-317A,RELIEF_VALVE,serial_number,RV-A-2117,,stamped body,A,P-013,VERIFIED,Compressor discharge relief valve
+NFS-020,2026-06-20,PSV-317B,RELIEF_VALVE,serial_number,RV-B-1182,,stamped body,A,P-014,VERIFIED,Dryer receiver relief valve
+NFS-021,2026-06-20,PSV-317B,RELIEF_VALVE,protected_equipment,CA-R-317A,,line trace,A,P-014,VERIFIED,Certificate uses CA-R-317B typo
+NFS-022,2026-06-20,FT-317A,FLOWMETER,meter_tag,FT-317A,,instrument label,A,P-015,VERIFIED,Package delivered-flow meter
+NFS-023,2026-06-20,PG-DIS-317A,PRESSURE_GAUGE,gauge_tag,PG-DIS-317A,,instrument label,A,P-016,VERIFIED,Compressor discharge
+NFS-024,2026-06-20,PG-DRY-IN-317A,PRESSURE_GAUGE,gauge_tag,PG-DRY-IN-317A,,instrument label,A,P-017,VERIFIED,Dryer inlet
+NFS-025,2026-06-20,PG-DRY-OUT-317A,PRESSURE_GAUGE,gauge_tag,PG-DRY-OUT-317A,,instrument label,A,P-018,VERIFIED,Dryer outlet
+NFS-026,2026-06-20,PG-AF-OUT-317A,PRESSURE_GAUGE,gauge_tag,PG-AF-OUT-317A,,instrument label,A,P-019,VERIFIED,Afterfilter outlet
+NFS-027,2026-06-20,CA-D-317A,DRYER,purge_flow_spot_check,119,scfm,calibrated pitot traverse,B,P-020,REVIEW,Stable regeneration step at corrected delivered flow near 1586 scfm
+NFS-028,2026-06-20,CA-D-317A,DRYER,desiccant_fill_mass,486,kg,load-cell ticket crosscheck,B,P-021,VERIFIED,Matches 70/30 charge record
+NFS-029,2026-06-20,CA-C-317A,COMPRESSOR,oil_separator_element,OSE-1600-LS,,service label,A,P-022,VERIFIED,Current low-carryover element
+NFS-030,2026-06-20,CA-D-317A,DRYER,legacy_model_plate,DH-1400,,old riveted plate,C,P-023,LEGACY,Plate retained after 2024 dryer vessel retrofit
+NFS-031,2026-06-20,CA-C-317A,COMPRESSOR,legacy_model_stencil,VX-1500,,painted base stencil,C,P-024,LEGACY,Administrative carry-forward only
+NFS-032,2026-06-20,CA-D-317A,GUARD,fastener_count_installed,8,count,visual inspection,A,P-012,PASS,All eight specified fasteners present
+NFS-033,2026-06-20,CA-D-317A,GUARD,guard_panel_access,South panel hinged; west panel bolted,,visual inspection,A,P-012,VERIFIED,West panel removal required for purge valve access
+NFS-034,2026-06-20,CA-R-317A,RECEIVER,receiver_mawp,125,psig,nameplate,A,P-025,VERIFIED,Protected by PSV-317B
+NFS-035,2026-06-20,CA-C-317A,COMPRESSOR,compressor_mawp,150,psig,nameplate,A,P-026,VERIFIED,Protected by PSV-317A
